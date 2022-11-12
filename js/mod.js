@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The JToH Tree",
 	id: "mymod",
 	author: "nobody",
-	pointsName: "points",
+	pointsName: "Towers",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
